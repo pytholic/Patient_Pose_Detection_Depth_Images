@@ -1,0 +1,6 @@
+main: https://www.youtube.com/watch?v=r3cVTxa0u3E&list=PL3Dh_99BJkCEhE7Ri8W6aijiEqm3ZoGRq&index=6
+
+data loader: https://medium.com/analytics-vidhya/creating-a-custom-dataset-and-dataloader-in-pytorch-76f210a1df5d
+
+https://www.kaggle.com/jainamshah17/pytorch-starter-image-classification
+
